@@ -1,1 +1,1 @@
-# vladstore..github.io
+# vladstore.github.io
